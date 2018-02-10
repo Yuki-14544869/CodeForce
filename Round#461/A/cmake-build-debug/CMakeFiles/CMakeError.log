@@ -1,0 +1,24 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /cygdrive/c/Users/HEU-2/CLionProjects/CodeForce/Round#461/A/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make.exe" "cmTC_b911d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b911d.dir/build.make CMakeFiles/cmTC_b911d.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/HEU-2/CLionProjects/CodeForce/Round#461/A/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: *** No rule to make target '/cygdrive/c/Users/HEU-2/CLionProjects/CodeForce/Round', needed by 'CMakeFiles/cmTC_b911d.dir/feature_tests.c.o'.  Stop.
+make[1]: Leaving directory '/cygdrive/c/Users/HEU-2/CLionProjects/CodeForce/Round#461/A/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:126: cmTC_b911d/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /cygdrive/c/Users/HEU-2/CLionProjects/CodeForce/Round#461/A/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make.exe" "cmTC_72737/fast"
+/usr/bin/make -f CMakeFiles/cmTC_72737.dir/build.make CMakeFiles/cmTC_72737.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/HEU-2/CLionProjects/CodeForce/Round#461/A/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: *** No rule to make target '/cygdrive/c/Users/HEU-2/CLionProjects/CodeForce/Round', needed by 'CMakeFiles/cmTC_72737.dir/feature_tests.cxx.o'.  Stop.
+make[1]: Leaving directory '/cygdrive/c/Users/HEU-2/CLionProjects/CodeForce/Round#461/A/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:126: cmTC_72737/fast] Error 2
+
+
+
