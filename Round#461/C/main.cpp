@@ -1,6 +1,11 @@
-#include <iostream>
+#include <bits/stdc++.h>
+using namespace std;
+
+typedef long long LL;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    ios::sync_with_stdio(false);
+    LL n, k;
+    cin >> n >> k;
+    
 }
